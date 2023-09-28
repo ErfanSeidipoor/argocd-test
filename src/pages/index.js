@@ -28,7 +28,7 @@ export default function Home() {
           />
           <br/>
         </div>
-          <h1>version: 1</h1>
+          <h1>version: 2</h1>
       </main>
     </>
   )
